@@ -1,0 +1,6 @@
+README for AstDiffApplier
+
+This repository is for a plugin that will take AST deltas and apply them to
+existing code.
+
+These deltas describe common code change patterns.
